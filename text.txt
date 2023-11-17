@@ -1,0 +1,6 @@
+
+azul #3894E5
+
+laranja #D15015
+
+amarelo #F0D52B
